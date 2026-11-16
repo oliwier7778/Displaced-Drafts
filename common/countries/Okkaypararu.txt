@@ -4,7 +4,7 @@ graphical_culture = inuitgfx
 
 color = { 100 0 0 }
 
-revolutionary_colors = { 5 1 5}
+revolutionary_colors = { 5 1 5 }
 
 historical_idea_groups = {
 	religious_ideas
