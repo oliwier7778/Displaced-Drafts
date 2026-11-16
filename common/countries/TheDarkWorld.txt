@@ -40,7 +40,7 @@ historical_units = {
 }
 
 monarch_names = {
-	Roaring Knight #0 = 100
+	"Roaring Knight" #0 = 100
 
 	Dess #0 = -1
 }

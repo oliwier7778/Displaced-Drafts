@@ -3,15 +3,15 @@ add_government_reform = fuedalism_reform
 technology_group = western
 primary_culture = prussian
 religion = protestant
-capital = 46 #Dublin
+capital = 373 #Dublin
 
-1444.1.1 = {
+1444.11.11 = {
     monarch = {
         name = "Roaring Knight"
         dynasty = "DELTARUNE"
         adm = 3
         dip = 2
         mil = 6
-        birthdate = 1424.1.1
+        birthdate = 1424.11.11
     }
 }
