@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = fuedalism_reform
+technology_group = western
+primary_culture = prussian
+religion = protestant
+capital = 46 #Dublin
+
+1444.1.1 = {
+    monarch = {
+        name = "Roaring Knight"
+        dynasty = "DELTARUNE"
+        adm = 3
+        dip = 2
+        mil = 6
+        birthdate = 1424.1.1
+    }
+}
