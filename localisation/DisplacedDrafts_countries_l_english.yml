@@ -1,7 +1,9 @@
 ﻿l_english:
 
 TDW: "The Dark World"
-TDW_ADJ: "Darkner"
+TW_ADJ: "Darkner"
+TLW: "The Light World"
+TLW_ADJ: "Lightner"
 OKK: "Okkaypararu"
 OKK_ADJ: "Okkaypararuan"
 
@@ -13,4 +15,6 @@ duskner: "Duskner"
 
 the_prophecy: "The Prophecy"
 darkner_prophecy: "Darkner Prophecy"
-darkner_prophecy_desc: "The version of the Prophecy followed by Darkners."
+darkner_prophecy_religion_desc: "The version of the Prophecy followed by Darkners."
+lightner_prophecy: "Lightner Prophecy"
+lightner_prophecy_religion_desc: "The version of the Prophecy followed by Lightners."

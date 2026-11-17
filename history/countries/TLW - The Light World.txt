@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = fuedalism_reform
+technology_group = western
+primary_culture = darkner
+religion = darkner_prophecy
+capital = 373 #Dublin
+
+1444.11.11 = {
+    monarch = {
+        name = "Roaring Knight"
+        dynasty = "DELTARUNE"
+        adm = 3
+        dip = 2
+        mil = 6
+        birthdate = 1424.11.11
+    }
+}

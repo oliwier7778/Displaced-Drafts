@@ -2,13 +2,28 @@ the_prophecy = {
     flags_with_emblem_percentage = 10
     flag_emblem_index_range = { 83 96 }
         darkner_prophecy = {
+            primary = TDW
+
             color = { 0 0 0 }
             icon = 1
             country = { #temporary modifiers
                 land_morale = 0.05
                 global_tax_modifier = 0.2
             }
-            country_as_secondary = {
+            country_as_secondary = { #temporary modifiers
+                land_morale = 0.1
+            }
+        }
+        lightner_prophecy = {
+            primary = TLW
+
+            color = { 255 255 255 }
+            icon = 1
+            country = { #temporary modifiers
+                land_morale = 0.05
+                global_tax_modifier = 0.2
+            }
+            country_as_secondary = { #temporary modifiers
                 land_morale = 0.1
             }
         }

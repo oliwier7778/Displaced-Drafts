@@ -1,0 +1,62 @@
+#TheDarkWorld
+
+graphical_culture = westerngfx
+
+#color = { 143  141  128 }
+color = { 0 0 0 }
+
+revolutionary_colors = { 1  0  4 }
+
+historical_score = 1800
+
+preferred_religion = lightner_prophecy
+
+historical_idea_groups = {
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Roaring Knight" #0 = 100
+
+	Dess #0 = -1
+}
+
+leader_names = {	
+	King Queen Titan
+}
+
+ship_names = {
+	"WAWAWA"
+}
+
+army_names = {
+	"Darkner Corps"
+}
+
+fleet_names = {
+	"Roulx's Navy"
+}

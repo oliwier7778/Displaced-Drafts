@@ -1,2 +1,3 @@
 TDW = "countries/TheDarkWorld.txt"
+TLW = "countries/TheLightWorld.txt"
 OKK = "countries/Okkaypararu.txt"

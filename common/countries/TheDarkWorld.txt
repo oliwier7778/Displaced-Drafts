@@ -9,8 +9,7 @@ revolutionary_colors = { 1  0  4 }
 
 historical_score = 1800
 
-preferred_religion = protestant
-
+preferred_religion = darkner_prophecy
 historical_idea_groups = {
 	innovativeness_ideas
 	offensive_ideas

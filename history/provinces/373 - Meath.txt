@@ -3,6 +3,7 @@
 owner = TDW
 controller = TDW
 add_core = TDW
+add_core = TLW
 add_core = MTH
 culture = darkner
 religion = darkner_prophecy
