@@ -3,7 +3,7 @@
 owner = TDW
 controller = TDW
 culture = lightner
-religion = catholic
+religion = darkner_prophecy
 hre = no
 base_tax = 2
 base_production = 2
