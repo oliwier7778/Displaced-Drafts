@@ -1,0 +1,31 @@
+delta_runic = {
+    darkner = {
+        primary = TDW
+        
+        male_names = {
+            "Placeholder"
+        }
+
+        female_names = {
+            "Placeholder"
+        }
+
+        dynasty_names = {
+            "Placeholder"
+        }
+    }
+    lightner = {
+        
+        male_names = {
+            "Placeholder"
+        }
+
+        female_names = {
+            "Placeholder"
+        }
+
+        dynasty_names = {
+            "Placeholder"
+        }
+    }
+}

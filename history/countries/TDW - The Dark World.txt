@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = fuedalism_reform
 technology_group = western
-primary_culture = prussian
+primary_culture = darkner
 religion = protestant
 capital = 373 #Dublin
 

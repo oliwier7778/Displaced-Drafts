@@ -2,7 +2,7 @@
 
 owner = TDW
 controller = TDW
-culture = irish
+culture = darkner
 religion = catholic
 hre = no
 base_tax = 2
