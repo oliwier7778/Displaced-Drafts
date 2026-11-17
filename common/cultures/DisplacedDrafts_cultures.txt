@@ -28,4 +28,32 @@ delta_runic = {
             "Placeholder"
         }
     }
+    twilightner = {
+        
+        male_names = {
+            "Placeholder"
+        }
+
+        female_names = {
+            "Placeholder"
+        }
+
+        dynasty_names = {
+            "Placeholder"
+        }
+    }
+    duskner = {
+        
+        male_names = {
+            "Placeholder"
+        }
+
+        female_names = {
+            "Placeholder"
+        }
+
+        dynasty_names = {
+            "Placeholder"
+        }
+    }
 }
