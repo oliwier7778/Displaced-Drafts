@@ -1,2 +1,2 @@
 TDW = "countries/TheDarkWorld.txt"
-OKK = "coutries/Okkaypararu.txt"
+OKK = "countries/Okkaypararu.txt"
