@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = fuedalism_reform
+technology_group = western
+primary_culture = darkner
+religion = protestant
+capital = 522 #Delhi
+
+1444.11.11 = {
+    monarch = {
+        name = "Placeholder"
+        dynasty = "Placeholder"
+        adm = 3
+        dip = 2
+        mil = 6
+        birthdate = 1424.11.11
+    }
+}
